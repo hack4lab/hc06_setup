@@ -9,7 +9,7 @@
 
 #define NAME "NAME"
 
-#define DESIRED_NAME "MATHEUS2"
+#define DESIRED_NAME "HC06 NAME"
 
 #define DESIRED_BAUD_RATE "8"
 #define DESIRED_PIN  "1111"
